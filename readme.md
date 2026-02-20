@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="">
-# 👻 GhostGPT
+<img src="https://github.com/GHOST-GPT/GhostGPT/blob/main/file_00000000e98871fd84f0135caf6ac4ee%20(1).png">
+
 ### The Ultimate Multi-Model AI Hub
 
 <b>High-performance AI platform built for developers, researchers, and power users.</b>

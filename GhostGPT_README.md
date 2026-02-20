@@ -1,4 +1,4 @@
-![GhostGPT Banner](https://github.com/CyberAlbSecOP/BL4CKH4T-G0D/assets/145022163/fa8abe90-22e2-4fcc-a97e-e76368625896)
+![GhostGPT Banner](https://github.com/Ghost-Gpt)
 
 <h1 align="center">👻 GHOSTGPT // ADVANCED AI CHAT AGENT</h1>
 <p align="center">

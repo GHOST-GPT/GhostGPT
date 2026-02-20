@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=GhostGPT+—+Advanced+AI+Platform;Multi-Model+LLM+Routing;Developer-Grade+Code+Generation;Instant+API+Access" alt="GhostGPT Typing Banner"/>
-
+<img src="">
 # 👻 GhostGPT
 ### The Ultimate Multi-Model AI Hub
 
